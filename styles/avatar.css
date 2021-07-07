@@ -1,0 +1,21 @@
+
+.avatar {
+    height: 25%;
+    width: 25%;
+}
+
+.user {
+    display: flex;
+    padding-top: 30px;
+}
+
+.user_says {
+    /* positioning */
+    display: flex;
+    padding-left: 20px;
+
+    /* font styling */
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}

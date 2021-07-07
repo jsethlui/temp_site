@@ -1,0 +1,27 @@
+
+/* before anything has happend */
+a {
+    opacity: 0;
+    text-decoration: none;
+}
+
+/* on visit */
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+/* on hover over */
+a:hover {
+    text-decoration: none; 
+}
+
+/* on user click */
+a:focus {
+    text-decoration: none;
+}
+
+/* on user press down */
+a:active {
+    text-decoration: none;
+}
